@@ -1,0 +1,1 @@
+coins = 'BTC,ETH,BNB,ADA'
